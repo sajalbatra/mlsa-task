@@ -31,30 +31,29 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Interactive Data Visualization Dashboard",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Developed an interactive dashboard using D3.js and React to visualize complex data sets.",
+    url: "https://example.com/interactive-data-visualization-dashboard",
   },
   {
-    title: "Web Development for Beginners",
+    title: "E-commerce Website Redesign",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Led a team to redesign an e-commerce website, resulting in a 30% increase in user engagement.",
+    url: "https://example.com/ecommerce-website-redesign",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "Machine Learning Model Deployment",
+    description: "Deployed a machine learning model as a RESTful API using Flask and Docker.",
+    url: "https://example.com/machine-learning-model-deployment",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Mobile App Prototyping",
+    description:"Prototyped a mobile app interface for a social networking platform using Figma.",
+    url: "https://example.com/mobile-app-prototyping",
   },
 ];
+
 
 const Portfolio = () => {
   return (
